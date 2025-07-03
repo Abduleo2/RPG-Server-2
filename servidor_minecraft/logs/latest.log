@@ -606,3 +606,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jul2025 13:02:30.043] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sir_Abduleo2[/127.105.172.128:50561] logged in with entity id 1499 at (3366.2133933660684, 117.0, 2843.372209275968)
 [03Jul2025 13:02:30.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 joined the game
 [03Jul2025 13:02:32.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2338ms or 46 ticks behind
+[03Jul2025 13:16:00.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 drowned
+[03Jul2025 13:16:00.288] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
