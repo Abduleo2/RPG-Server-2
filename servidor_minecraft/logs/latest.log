@@ -608,3 +608,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jul2025 13:02:32.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2338ms or 46 ticks behind
 [03Jul2025 13:16:00.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 drowned
 [03Jul2025 13:16:00.288] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
+[03Jul2025 13:20:43.012] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3225, y=-10, z=3107}
+[03Jul2025 13:21:58.262] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3555, y=-30, z=3129}
+[03Jul2025 13:21:58.264] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3555, y=-30, z=3130}
+[03Jul2025 13:21:59.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was doomed to fall by Tiger
+[03Jul2025 13:21:59.085] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
+[03Jul2025 13:25:08.947] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3492, y=35, z=3156}
+[03Jul2025 13:27:44.021] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03Jul2025 13:27:44.021] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
