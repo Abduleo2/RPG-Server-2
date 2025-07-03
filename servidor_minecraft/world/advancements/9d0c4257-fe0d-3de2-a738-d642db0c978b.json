@@ -143,6 +143,7 @@
       "minecraft:windswept_savanna": "2025-07-01 10:30:28 +0000",
       "minecraft:warm_ocean": "2025-06-30 20:49:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-01 10:28:36 +0000",
+      "minecraft:flower_forest": "2025-07-03 12:46:17 +0000",
       "minecraft:savanna": "2025-06-30 15:55:14 +0000",
       "minecraft:plains": "2025-06-30 15:04:52 +0000"
     },
@@ -331,6 +332,8 @@
       "minecraft:pillager": "2025-07-01 11:23:03 +0000",
       "minecraft:skeleton": "2025-07-03 12:03:30 +0000",
       "minecraft:vindicator": "2025-07-02 12:06:52 +0000",
+      "minecraft:spider": "2025-07-03 12:47:17 +0000",
+      "minecraft:creeper": "2025-07-03 12:47:13 +0000",
       "minecraft:husk": "2025-07-03 12:06:20 +0000",
       "minecraft:zombie": "2025-07-01 10:15:54 +0000"
     },
