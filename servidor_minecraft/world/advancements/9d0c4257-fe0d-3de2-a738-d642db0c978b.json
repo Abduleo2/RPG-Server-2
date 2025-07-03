@@ -531,5 +531,17 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-07-03 13:44:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-07-03 13:38:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

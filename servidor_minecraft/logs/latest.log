@@ -644,3 +644,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jul2025 13:38:20.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 burned to death
 [03Jul2025 13:38:20.853] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
 [03Jul2025 13:38:27.075] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15104, l='ServerLevel[world]', x=3646.63, y=1.14, z=2907.08, removed=DISCARDED]
+[03Jul2025 13:43:48.152] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15104, l='ServerLevel[world]', x=3646.63, y=1.14, z=2907.08, removed=DISCARDED]
+[03Jul2025 13:44:49.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [People Are Strange]
+[03Jul2025 13:47:01.773] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/18884, l='ServerLevel[world]', x=3995.50, y=71.00, z=2805.50]
+[03Jul2025 13:47:25.604] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/15104, l='ServerLevel[world]', x=3646.63, y=1.14, z=2907.08, removed=DISCARDED]
