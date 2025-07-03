@@ -615,3 +615,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jul2025 12:17:39.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 left the game
 [03Jul2025 12:28:25.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sir_Abduleo2[/127.105.172.128:59799] logged in with entity id 4963 at (3435.699999988079, 107.0, 2818.300000011921)
 [03Jul2025 12:28:25.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 joined the game
+[03Jul2025 12:44:54.949] [Worker-Main-34/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03Jul2025 12:44:54.950] [Worker-Main-34/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[03Jul2025 12:44:55.412] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3282, y=-27, z=2546}
