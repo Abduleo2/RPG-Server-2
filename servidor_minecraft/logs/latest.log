@@ -609,3 +609,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Jul2025 12:03:06.367] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3624, y=12, z=2862}
 [03Jul2025 12:03:07.492] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3629, y=26, z=3003}
 [03Jul2025 12:03:49.066] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3662, y=-46, z=2667}
+[03Jul2025 12:10:01.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Cover Me with Diamonds]
+[03Jul2025 12:17:14.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has reached the goal [Bone Crusher]
+[03Jul2025 12:17:39.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sir_Abduleo2 lost connection: Disconnected
+[03Jul2025 12:17:39.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 left the game
