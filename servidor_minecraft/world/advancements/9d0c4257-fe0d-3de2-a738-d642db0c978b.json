@@ -152,9 +152,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-07-04 14:57:54 +0000",
       "log_spam_fixer": "2025-06-30 15:00:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -336,6 +337,7 @@
       "minecraft:spider": "2025-07-03 12:47:17 +0000",
       "minecraft:creeper": "2025-07-03 12:47:13 +0000",
       "minecraft:evoker": "2025-07-04 11:29:51 +0000",
+      "minecraft:slime": "2025-07-04 14:50:03 +0000",
       "minecraft:husk": "2025-07-03 12:06:20 +0000",
       "minecraft:vex": "2025-07-04 11:29:51 +0000",
       "minecraft:zombie": "2025-07-01 10:15:54 +0000"
@@ -576,12 +578,6 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-07-04 14:47:17 +0000"
-    },
-    "done": false
-  },
   "incendium:root": {
     "criteria": {
       "requirement": "2025-07-04 14:47:13 +0000"
@@ -597,6 +593,42 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-04 14:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-04 14:47:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-07-04 14:47:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2025-07-04 14:47:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-07-04 14:50:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-07-04 14:51:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-07-04 14:57:31 +0000"
     },
     "done": true
   },
