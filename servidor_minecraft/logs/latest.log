@@ -637,3 +637,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jul2025 14:06:08.739] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2285, l='ServerLevel[world]', x=3943.50, y=70.00, z=3406.50]
 [04Jul2025 14:07:07.890] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2519, l='ServerLevel[world]', x=3943.50, y=70.00, z=3405.50]
 [04Jul2025 14:07:56.938] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2723, l='ServerLevel[world]', x=3878.50, y=74.00, z=3497.50]
+[04Jul2025 14:47:13.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [We Need to Go Deeper]
+[04Jul2025 14:47:13.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Incendium]
+[04Jul2025 14:47:17.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8264ms or 165 ticks behind
+[04Jul2025 14:47:59.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Radioactive]
+[04Jul2025 14:50:01.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Toxic Personality]
+[04Jul2025 14:50:03.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/16527, l='ServerLevel[world]', x=464.96, y=53.00, z=517.81] died: Toxic Slime was slain by Sir_Abduleo2
+[04Jul2025 14:51:07.393] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/16355, l='ServerLevel[world]', x=499.74, y=-20.00, z=498.26] died: Toxic Slime was killed
+[04Jul2025 14:51:41.393] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/16413, l='ServerLevel[world]', x=411.54, y=-20.00, z=498.83] died: Toxic Slime was killed
