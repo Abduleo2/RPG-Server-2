@@ -727,3 +727,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jul2025 15:10:35.392] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/22719, l='ServerLevel[world]', x=559.75, y=-20.00, z=615.26] died: Toxic Slime was killed
 [04Jul2025 15:10:54.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/22817, l='ServerLevel[world]', x=549.18, y=-20.00, z=619.26] died: Toxic Slime was killed
 [04Jul2025 15:12:03.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/23213, l='ServerLevel[world]', x=743.56, y=-20.00, z=675.15] died: Toxic Slime was killed
+[04Jul2025 15:12:51.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was doomed to fall by Phantom
+[04Jul2025 15:12:51.357] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
+[04Jul2025 15:15:09.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Those Were the Days]
+[04Jul2025 15:17:40.388] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/25138, l='ServerLevel[world]', x=590.86, y=-20.00, z=1042.86] died: Toxic Slime was killed
+[04Jul2025 15:19:40.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/25370, l='ServerLevel[world]', x=700.26, y=-20.00, z=828.74] died: Toxic Slime was killed
+[04Jul2025 15:20:29.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Oh Shiny]

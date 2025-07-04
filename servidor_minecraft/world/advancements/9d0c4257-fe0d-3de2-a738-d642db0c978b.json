@@ -333,11 +333,13 @@
       "minecraft:pillager": "2025-07-01 11:23:03 +0000",
       "minecraft:blaze": "2025-07-04 14:58:34 +0000",
       "minecraft:skeleton": "2025-07-03 12:03:30 +0000",
+      "minecraft:hoglin": "2025-07-04 15:13:35 +0000",
       "minecraft:vindicator": "2025-07-02 12:06:52 +0000",
       "minecraft:spider": "2025-07-03 12:47:17 +0000",
       "minecraft:creeper": "2025-07-03 12:47:13 +0000",
       "minecraft:evoker": "2025-07-04 11:29:51 +0000",
       "minecraft:slime": "2025-07-04 14:50:03 +0000",
+      "minecraft:phantom": "2025-07-04 15:12:39 +0000",
       "minecraft:husk": "2025-07-03 12:06:20 +0000",
       "minecraft:vex": "2025-07-04 11:29:51 +0000",
       "minecraft:zombie": "2025-07-01 10:15:54 +0000"
@@ -598,7 +600,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-07-04 14:47:17 +0000"
+      "minecraft:crimson_forest": "2025-07-04 15:12:51 +0000",
+      "minecraft:nether_wastes": "2025-07-04 14:47:17 +0000",
+      "minecraft:soul_sand_valley": "2025-07-04 15:12:16 +0000"
     },
     "done": false
   },
@@ -638,11 +642,23 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-04 15:15:09 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/pipeline/kill_sentry": {
     "criteria": {
       "requirement": "2025-07-04 14:58:34 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-07-04 15:12:39 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
