@@ -608,3 +608,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jul2025 11:13:34.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 joined the game
 [04Jul2025 11:13:40.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
 [04Jul2025 11:15:50.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has completed the challenge [Your dad after a night out with his co-workers]
+[04Jul2025 11:24:46.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was burnt to a crisp whilst fighting Fire Dragon
+[04Jul2025 11:24:46.819] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
+[04Jul2025 11:28:43.521] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8358, l='ServerLevel[world]', x=3944.50, y=71.00, z=3378.50]
+[04Jul2025 11:29:36.972] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8565, l='ServerLevel[world]', x=3943.50, y=71.00, z=3377.50]
+[04Jul2025 11:29:40.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [It Belongs in a Museum]
+[04Jul2025 11:30:59.272] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8850, l='ServerLevel[world]', x=3945.50, y=71.00, z=3378.50]
+[04Jul2025 11:31:16.072] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8925, l='ServerLevel[world]', x=3837.50, y=73.00, z=3495.50]
+[04Jul2025 11:31:20.772] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/8950, l='ServerLevel[world]', x=3944.50, y=71.00, z=3376.50]
