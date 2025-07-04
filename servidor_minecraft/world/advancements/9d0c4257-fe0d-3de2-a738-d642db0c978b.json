@@ -152,10 +152,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-07-04 14:57:54 +0000",
       "log_spam_fixer": "2025-06-30 15:00:41 +0000"
     },
-    "done": true
+    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -332,6 +331,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-01 11:23:03 +0000",
+      "minecraft:blaze": "2025-07-04 14:58:34 +0000",
       "minecraft:skeleton": "2025-07-03 12:03:30 +0000",
       "minecraft:vindicator": "2025-07-02 12:06:52 +0000",
       "minecraft:spider": "2025-07-03 12:47:17 +0000",
@@ -626,9 +626,21 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
+    "criteria": {
+      "requirement": "2025-07-04 15:02:49 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/pipeline/root": {
     "criteria": {
       "requirement": "2025-07-04 14:57:31 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-07-04 14:58:34 +0000"
     },
     "done": true
   },
