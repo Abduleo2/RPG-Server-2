@@ -631,3 +631,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jul2025 06:44:18.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 joined the game
 [04Jul2025 06:44:22.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3763ms or 75 ticks behind
 [04Jul2025 06:44:42.897] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHummingbird['Hummingbird'/1822, l='ServerLevel[world]', x=3569.34, y=65.13, z=2864.68]
+[04Jul2025 07:10:54.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3503, y=80, z=2966} BlockPos{x=3504, y=80, z=2966}
