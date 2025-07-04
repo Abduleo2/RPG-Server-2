@@ -733,3 +733,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Jul2025 15:17:40.388] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/25138, l='ServerLevel[world]', x=590.86, y=-20.00, z=1042.86] died: Toxic Slime was killed
 [04Jul2025 15:19:40.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/25370, l='ServerLevel[world]', x=700.26, y=-20.00, z=828.74] died: Toxic Slime was killed
 [04Jul2025 15:20:29.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Oh Shiny]
+[04Jul2025 15:24:58.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Nightmare Fuel]
+[04Jul2025 15:27:17.633] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[04Jul2025 15:30:07.517] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=303, y=98, z=248}
+[04Jul2025 15:30:14.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Hellish Paradise]
+[04Jul2025 15:30:14.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Strange Biomes]
+[04Jul2025 15:30:39.636] [Worker-Main-69/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[04Jul2025 15:31:37.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has reached the goal [Piglin Pillage]
+[04Jul2025 15:31:43.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sir_Abduleo2 lost connection: Disconnected
+[04Jul2025 15:31:43.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 left the game
