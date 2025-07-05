@@ -741,15 +741,27 @@
     },
     "done": true
   },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-07-05 08:29:45 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:sugarcoat": {
     "criteria": {
       "sugarcoat": "2025-07-05 08:33:12 +0000"
     },
     "done": true
   },
-  "endrem:main/eyes_recipe": {
+  "minecraft:adventure/honey_block_slide": {
     "criteria": {
-      "eyes": "2025-07-05 08:29:45 +0000"
+      "honey_block_slide": "2025-07-05 08:55:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-07-05 09:08:04 +0000"
     },
     "done": true
   },
