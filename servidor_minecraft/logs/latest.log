@@ -667,3 +667,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 11:57:01.444] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
 [05Jul2025 11:57:23.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was slain by The Moonflower
 [05Jul2025 11:57:23.233] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
+[05Jul2025 12:48:23.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was slain by The Horrors
+[05Jul2025 12:48:23.966] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
