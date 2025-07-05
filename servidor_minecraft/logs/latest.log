@@ -677,3 +677,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 07:25:45.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sir_Abduleo2 moved wrongly!
 [05Jul2025 07:25:53.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was slain by Magma Cube
 [05Jul2025 07:25:53.971] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
+[05Jul2025 07:26:09.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was burnt to a crisp whilst fighting Magma Cube
+[05Jul2025 07:26:09.632] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
+[05Jul2025 07:26:58.291] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/18867, l='ServerLevel[world]', x=483.96, y=-20.00, z=336.41] died: Toxic Slime was killed
+[05Jul2025 07:29:41.292] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/19086, l='ServerLevel[world]', x=487.30, y=-20.00, z=331.33] died: Toxic Slime was killed
+[05Jul2025 07:30:35.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5844ms or 116 ticks behind
+[05Jul2025 07:33:46.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sir_Abduleo2 lost connection: Disconnected
+[05Jul2025 07:33:46.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 left the game
+[05Jul2025 07:34:50.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Jul2025 07:34:50.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1stop<--[HERE]
+[05Jul2025 07:34:56.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[05Jul2025 07:34:56.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Jul2025 07:34:56.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Jul2025 07:34:56.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Jul2025 07:34:57.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Jul2025 07:34:58.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[05Jul2025 07:34:58.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[05Jul2025 07:34:58.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[05Jul2025 07:34:58.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[05Jul2025 07:34:58.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[05Jul2025 07:34:58.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[05Jul2025 07:34:58.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[05Jul2025 07:34:58.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[05Jul2025 07:34:58.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[05Jul2025 07:34:58.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[05Jul2025 07:34:58.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[05Jul2025 07:34:58.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Jul2025 07:34:58.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[05Jul2025 07:34:58.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[05Jul2025 07:34:58.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Jul2025 07:34:58.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[05Jul2025 07:34:58.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Jul2025 07:34:58.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[05Jul2025 07:34:58.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[05Jul2025 07:34:58.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[05Jul2025 07:34:58.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[05Jul2025 07:34:58.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[05Jul2025 07:34:58.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[05Jul2025 07:34:58.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[05Jul2025 07:34:58.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[05Jul2025 07:34:58.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[05Jul2025 07:34:58.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[05Jul2025 07:34:58.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[05Jul2025 07:34:58.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Jul2025 07:34:58.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[05Jul2025 07:34:58.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[05Jul2025 07:34:58.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Jul2025 07:34:58.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[05Jul2025 07:34:58.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
