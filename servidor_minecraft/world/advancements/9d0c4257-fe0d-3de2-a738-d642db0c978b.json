@@ -741,6 +741,12 @@
     },
     "done": true
   },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat": "2025-07-05 08:33:12 +0000"
+    },
+    "done": true
+  },
   "endrem:main/eyes_recipe": {
     "criteria": {
       "eyes": "2025-07-05 08:29:45 +0000"
