@@ -603,3 +603,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 05:48:52.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 joined the game
 [05Jul2025 05:48:55.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3268ms or 65 ticks behind
 [05Jul2025 05:50:53.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/1595, l='ServerLevel[world]', x=1095.17, y=50.00, z=785.56] died: Piglin Civilian burned to death
+[05Jul2025 05:57:52.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Who is Cutting Onions?]
+[05Jul2025 05:58:50.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/2171, l='ServerLevel[world]', x=1051.67, y=59.00, z=747.04] died: Piglin Civilian was slain by Sir_Abduleo2
+[05Jul2025 05:59:26.205] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Brewer'/1658, l='ServerLevel[world]', x=1095.86, y=49.00, z=785.30] died: Village Brewer went up in flames
+[05Jul2025 05:59:51.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/1596, l='ServerLevel[world]', x=1095.71, y=49.00, z=785.49] died: Piglin Civilian went up in flames
