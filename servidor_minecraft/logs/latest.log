@@ -649,3 +649,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 07:04:54.971] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/5753, l='ServerLevel[world]', x=1516.76, y=43.00, z=440.14] died: Sanctum Cultist was slain by Sir_Abduleo2
 [05Jul2025 07:04:57.065] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/5748, l='ServerLevel[world]', x=1514.58, y=43.00, z=435.30] died: Sanctum Cultist was slain by Sir_Abduleo2
 [05Jul2025 07:04:59.670] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/5835, l='ServerLevel[world]', x=1508.10, y=43.00, z=435.30] died: Sanctum Cultist was slain by Sir_Abduleo2
+[05Jul2025 07:08:58.214] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/5658, l='ServerLevel[world]', x=1500.70, y=55.50, z=450.26] died: Sanctum Cultist was slain by Sir_Abduleo2
+[05Jul2025 07:09:22.472] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/5660, l='ServerLevel[world]', x=1509.97, y=55.00, z=424.70] died: Sanctum Cultist was slain by Sir_Abduleo2
+[05Jul2025 07:09:25.071] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/5566, l='ServerLevel[world]', x=1508.70, y=55.00, z=422.30] died: Sanctum Protector was slain by Sir_Abduleo2
+[05Jul2025 07:09:25.878] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/5567, l='ServerLevel[world]', x=1508.69, y=55.00, z=422.46] died: Sanctum Cultist was slain by Sir_Abduleo2
+[05Jul2025 07:10:00.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/5661, l='ServerLevel[world]', x=1506.28, y=55.00, z=422.76] died: Sanctum Cultist was frozen to death by Sir_Abduleo2
+[05Jul2025 07:10:23.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/5822, l='ServerLevel[world]', x=1543.47, y=37.00, z=436.49] died: Sanctum Inquisitor went up in flames
+[05Jul2025 07:11:13.510] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/5663, l='ServerLevel[world]', x=1509.68, y=65.50, z=428.64] died: Sanctum Protector was slain by Sir_Abduleo2
+[05Jul2025 07:11:16.949] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/5579, l='ServerLevel[world]', x=1509.53, y=63.54, z=426.75] died: Sanctum Protector was killed trying to hurt Sir_Abduleo2
+[05Jul2025 07:11:37.320] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/5576, l='ServerLevel[world]', x=1509.39, y=74.00, z=422.30] died: Sanctum Cultist was slain by Sir_Abduleo2
+[05Jul2025 07:12:09.461] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/5655, l='ServerLevel[world]', x=1503.17, y=74.00, z=452.11] died: Sanctum Protector was slain by Sir_Abduleo2
+[05Jul2025 07:15:59.577] [Worker-Main-91/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=10, z=-283}
+[05Jul2025 07:15:59.580] [Worker-Main-91/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-218, y=10, z=-283}
+[05Jul2025 07:16:12.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/14396, l='ServerLevel[world]', x=1002.24, y=32.00, z=395.97] died: Piglin Paratrooper was slain by Sir_Abduleo2
+[05Jul2025 07:16:35.013] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/14259, l='ServerLevel[world]', x=1061.59, y=62.00, z=434.36] died: Piglin Paratrooper was slain by Wither Skeleton
+[05Jul2025 07:16:42.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/14334, l='ServerLevel[world]', x=1060.50, y=62.00, z=431.85] died: Piglin Paratrooper was slain by Wither Skeleton
+[05Jul2025 07:23:28.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 burned to death
+[05Jul2025 07:23:28.685] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
+[05Jul2025 07:25:12.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was slain by Magma Cube
+[05Jul2025 07:25:12.529] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
+[05Jul2025 07:25:27.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was slain by Magma Cube
+[05Jul2025 07:25:27.877] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved
+[05Jul2025 07:25:35.851] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sir_Abduleo2 moved wrongly!
+[05Jul2025 07:25:37.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sir_Abduleo2 moved wrongly!
+[05Jul2025 07:25:39.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sir_Abduleo2 moved wrongly!
+[05Jul2025 07:25:39.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sir_Abduleo2 moved wrongly!
+[05Jul2025 07:25:45.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sir_Abduleo2 moved wrongly!
+[05Jul2025 07:25:53.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 was slain by Magma Cube
+[05Jul2025 07:25:53.971] [Server thread/INFO] [tombstone/]: The player Sir_Abduleo2 has successfully been saved

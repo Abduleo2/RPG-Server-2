@@ -337,6 +337,7 @@
       "minecraft:hoglin": "2025-07-04 15:13:35 +0000",
       "minecraft:vindicator": "2025-07-02 12:06:52 +0000",
       "minecraft:spider": "2025-07-03 12:47:17 +0000",
+      "minecraft:piglin_brute": "2025-07-05 07:16:12 +0000",
       "minecraft:creeper": "2025-07-03 12:47:13 +0000",
       "minecraft:evoker": "2025-07-04 11:29:51 +0000",
       "minecraft:slime": "2025-07-04 14:50:03 +0000",
@@ -346,7 +347,8 @@
       "minecraft:husk": "2025-07-03 12:06:20 +0000",
       "minecraft:piglin": "2025-07-04 15:20:29 +0000",
       "minecraft:vex": "2025-07-04 11:29:51 +0000",
-      "minecraft:zombie": "2025-07-01 10:15:54 +0000"
+      "minecraft:zombie": "2025-07-01 10:15:54 +0000",
+      "quark:foxhound": "2025-07-05 07:17:24 +0000"
     },
     "done": false
   },
@@ -574,7 +576,8 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
-      "killed_evoker": "2025-07-04 11:29:51 +0000"
+      "killed_evoker": "2025-07-04 11:29:51 +0000",
+      "killed_illusioner": "2025-07-05 07:03:55 +0000"
     },
     "done": false
   },
@@ -708,9 +711,21 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-05 07:21:55 +0000"
+    },
+    "done": false
+  },
   "incendium:quartz_flats/floor_is_tears": {
     "criteria": {
       "requirement": "2025-07-05 06:36:09 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-07-05 07:03:55 +0000"
     },
     "done": true
   },
