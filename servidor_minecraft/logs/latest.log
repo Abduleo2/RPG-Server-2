@@ -607,3 +607,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 05:58:50.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/2171, l='ServerLevel[world]', x=1051.67, y=59.00, z=747.04] died: Piglin Civilian was slain by Sir_Abduleo2
 [05Jul2025 05:59:26.205] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Brewer'/1658, l='ServerLevel[world]', x=1095.86, y=49.00, z=785.30] died: Village Brewer went up in flames
 [05Jul2025 05:59:51.098] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/1596, l='ServerLevel[world]', x=1095.71, y=49.00, z=785.49] died: Piglin Civilian went up in flames
+[05Jul2025 06:06:09.104] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/2170, l='ServerLevel[world]', x=1050.30, y=57.00, z=741.76] died: Piglin Civilian was slain by Sir_Abduleo2
+[05Jul2025 06:07:17.304] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/1586, l='ServerLevel[world]', x=1053.49, y=52.00, z=776.51] died: Piglin Civilian was slain by Sir_Abduleo2
+[05Jul2025 06:07:47.688] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/1590, l='ServerLevel[world]', x=1042.30, y=46.00, z=790.30] died: Piglin Civilian was slain by Sir_Abduleo2
+[05Jul2025 06:07:55.404] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/1593, l='ServerLevel[world]', x=1042.70, y=46.00, z=790.30] died: Village Guard was slain by Sir_Abduleo2
+[05Jul2025 06:12:48.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [The Dust Settles]
+[05Jul2025 06:21:18.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sir_Abduleo2 lost connection: Disconnected
+[05Jul2025 06:21:18.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 left the game
