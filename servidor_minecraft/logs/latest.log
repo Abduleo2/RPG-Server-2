@@ -614,3 +614,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Jul2025 06:12:48.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [The Dust Settles]
 [05Jul2025 06:21:18.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sir_Abduleo2 lost connection: Disconnected
 [05Jul2025 06:21:18.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 left the game
+[05Jul2025 06:35:04.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sir_Abduleo2[/127.26.185.141:44363] logged in with entity id 5006 at (1159.699999988079, 38.0, 643.3000000119209)
+[05Jul2025 06:35:04.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 joined the game
+[05Jul2025 06:36:09.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [The Floor is Tears]
+[05Jul2025 06:36:20.637] [Worker-Main-81/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-44, y=-51, z=112}
+[05Jul2025 06:36:20.638] [Worker-Main-81/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-51, z=112}
+[05Jul2025 06:36:20.732] [Worker-Main-92/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-44, y=-51, z=121}
+[05Jul2025 06:36:20.732] [Worker-Main-92/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-51, z=121}
+[05Jul2025 06:36:22.995] [Worker-Main-94/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-54, z=56}
+[05Jul2025 06:36:23.148] [Worker-Main-94/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-197, y=-53, z=89}
+[05Jul2025 06:36:23.162] [Worker-Main-94/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-51, z=112}
+[05Jul2025 06:36:23.233] [Worker-Main-91/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-53, z=95}
+[05Jul2025 06:36:23.249] [Worker-Main-91/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-51, z=121}
+[05Jul2025 06:36:26.392] [Worker-Main-83/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-51, z=70}
+[05Jul2025 06:36:26.999] [Worker-Main-82/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-51, z=53}
+[05Jul2025 06:36:31.288] [Worker-Main-91/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-229, y=-45, z=70}
+[05Jul2025 06:36:31.289] [Worker-Main-91/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=-45, z=71}
+[05Jul2025 06:36:31.289] [Worker-Main-91/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=-45, z=72}
+[05Jul2025 06:36:31.290] [Worker-Main-91/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=-45, z=69}
+[05Jul2025 06:37:39.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [A Terrible Fortress]
+[05Jul2025 06:39:01.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has reached the goal [An Illager Refuge?]
+[05Jul2025 06:39:33.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sir_Abduleo2 has made the advancement [Into Fire]
+[05Jul2025 06:40:03.056] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/5813, l='ServerLevel[world]', x=1548.94, y=30.84, z=453.77] died: Sanctum Cultist tried to swim in lava
+[05Jul2025 06:41:06.302] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/5568, l='ServerLevel[world]', x=1515.53, y=36.00, z=448.06] died: Sanctum Cultist burned to death
+[05Jul2025 06:41:21.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/5738, l='ServerLevel[world]', x=1519.11, y=36.06, z=442.50] died: Sanctum Inquisitor went up in flames
+[05Jul2025 06:45:00.800] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/5571, l='ServerLevel[world]', x=1478.15, y=34.00, z=497.14] died: Sanctum Protector went up in flames
